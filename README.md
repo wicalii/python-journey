@@ -1,15 +1,32 @@
 # Python Journey 🐍
 
-My Python learning journey focused on Cybersecurity.
+My Python learning journey from basics to cybersecurity and automation.
 
-## Progress
+## About
 
-- ✅ Day 01 - Variables
-- ✅ User Input
-- ✅ f-String
-- ✅ Type Casting
-- ✅ if / else
+This repository contains my daily Python practice, lessons, and challenges.
 
-## Goal
+I am learning Python step by step and building my programming foundation.
 
-Build real cybersecurity tools with Python and become a professional Security Engineer.
+## Progress 🚀
+
+- Day 01 ✅ Variables, Input, Output and If
+- Day 02 ✅ Boolean and Conditional Logic
+- Day 03 ✅ Elif and Service Detector
+- Day 04 ✅ Functions, Parameters and Scope
+
+## Repository Structure
+
+```text
+python-journey
+│
+├── day01
+├── day02
+├── day03
+└── day04
+ 
+```
+
+
+## Author
+wicalii
